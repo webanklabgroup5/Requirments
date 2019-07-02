@@ -34,6 +34,7 @@
 - [#106 获取用户列表信息](./ServerRequirements/106%20获取用户列表信息.md)
 - [#107 获取用户拥有的宠物信息](./ServerRequirements/107%20获取用户拥有的宠物信息.md)
 - [#108 上传宠物图片接口](./ServerRequirements/108%20上传宠物图片接口.md)
+- [#109 模块需求汇总](./ServerRequirements/109%20模块需求汇总.md)
 
 ### 移动端开发需求
 - [#201 创建项目](./AndroidRequirements/201%20创建项目)
