@@ -31,3 +31,4 @@
 - [#103 市场合约](./ServerRequirements/103%20市场合约.md)
 - [#104 交易合约](./ServerRequirements/104%20交易合约.md)
 - [#105 仲裁合约](./ServerRequirements/105%20仲裁合约.md)
+- [#106 获取用户列表信息](./ServerRequirements/106%20获取用户列表信息.md)
