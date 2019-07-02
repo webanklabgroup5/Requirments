@@ -32,3 +32,5 @@
 - [#104 交易合约](./ServerRequirements/104%20交易合约.md)
 - [#105 仲裁合约](./ServerRequirements/105%20仲裁合约.md)
 - [#106 获取用户列表信息](./ServerRequirements/106%20获取用户列表信息.md)
+- [#107 获取用户拥有的宠物信息](./ServerRequirements/107%20获取用户拥有的宠物信息.md)
+- [#108 上传宠物图片接口](./ServerRequirements/108%20上传宠物图片接口.md)
